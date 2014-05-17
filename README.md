@@ -11,3 +11,4 @@ Là, je suis fatiguée, mais je prendrai le temps d'expliquer le projet en long 
 <ul>
   <li><a href="http://cecile-habran.be/tfe/juin/">Le projet en ligne</href></li>
   <li><a href="http://cecile-habran.be/tfe/">La totale</href></li>
+</ul>
