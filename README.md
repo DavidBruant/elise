@@ -8,7 +8,5 @@ Mais vu qu'on commence à Sudweb, ça devrait le faire, vous êtes des bisounour
 **Pour les autres,**<br/>
 Là, je suis fatiguée, mais je prendrai le temps d'expliquer le projet en long en large et en diagonale, pour qu'il serve au maximum de gens qui veulent raconter quelque chose avec le responsive, même si ce sont mes erreurs qui pourront les guider.
 
-<ul>
-  <li><a href="http://cecile-habran.be/tfe/juin/">Le projet en ligne</href></li>
-  <li><a href="http://cecile-habran.be/tfe/">La totale</href></li>
-</ul>
+ - [Le projet en ligne](http://cecile-habran.be/tfe/juin)
+ - [La totale](http://cecile-habran.be/tfe)
