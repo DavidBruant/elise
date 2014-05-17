@@ -1,3 +1,5 @@
+"use strict";
+
 var chapterBtn = document.getElementsByClassName('chapter')[0],
 	bodyWidth = document.body.offsetWidth,
 	screenStep = document.getElementsByClassName('screen')[0],
